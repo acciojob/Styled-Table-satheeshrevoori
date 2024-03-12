@@ -1,1 +1,22 @@
 /* your code */
+     table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+        table th {
+            color: rgb(226, 43, 159);
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bolder;
+            background-color:rgb(35, 134, 151);
+        }
+        button 
+        {
+            color: red;
+            background-color: black;
+        }
+        table td 
+        {
+            color: darkblue;
+            padding: 5px;
+        }
